@@ -12,3 +12,4 @@ if temp == reverse:
     print("Palindrome")
 else:
     print("Not Palindrome")
+
