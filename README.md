@@ -6,7 +6,7 @@ This repository contains 75 beginner to intermediate level Python problems desig
 - Numbers & Arithmetic
 - Strings
 - Lists
-- Tuples & Sets
+- Tuples & Sets     
 - Dictionaries
 - Loops & Conditions
 - Functions
