@@ -2,11 +2,11 @@
 
 This repository contains 75 beginner to intermediate level Python problems designed to strengthen core programming concepts and Object-Oriented Programming (OOP) skills. It is suitable for beginners, students, and interview preparation.
 
-## Topics Covered
+## Topics Covered  
 - Numbers & Arithmetic
 - Strings
 - Lists
-- Tuples & Sets
+- Tuples & Sets     
 - Dictionaries
 - Loops & Conditions
 - Functions
