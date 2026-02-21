@@ -7,7 +7,7 @@ This repository contains 75 beginner to intermediate level Python problems desig
 - Strings
 - Lists
 - Tuples & Sets     
-- Dictionaries
+- Dictionaries 
 - Loops & Conditions
 - Functions
 - Object-Oriented Programming (OOP)
